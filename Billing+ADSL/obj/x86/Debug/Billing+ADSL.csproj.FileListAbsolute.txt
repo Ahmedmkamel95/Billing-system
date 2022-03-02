@@ -1,0 +1,31 @@
+C:\Users\Mahmoud Ragab\Documents\Visual Studio 2017\Projects\Billing+ADSL\Billing+ADSL\bin\x86\Debug\Billing+ADSL.exe.config
+C:\Users\Mahmoud Ragab\Documents\Visual Studio 2017\Projects\Billing+ADSL\Billing+ADSL\bin\x86\Debug\Billing+ADSL.exe
+C:\Users\Mahmoud Ragab\Documents\Visual Studio 2017\Projects\Billing+ADSL\Billing+ADSL\bin\x86\Debug\Billing+ADSL.pdb
+C:\Users\Mahmoud Ragab\Documents\Visual Studio 2017\Projects\Billing+ADSL\Billing+ADSL\bin\x86\Debug\tessnet2_32.dll
+C:\Users\Mahmoud Ragab\Documents\Visual Studio 2017\Projects\Billing+ADSL\Billing+ADSL\bin\x86\Debug\WebDriver.dll
+C:\Users\Mahmoud Ragab\Documents\Visual Studio 2017\Projects\Billing+ADSL\Billing+ADSL\bin\x86\Debug\WebDriver.Support.dll
+C:\Users\Mahmoud Ragab\Documents\Visual Studio 2017\Projects\Billing+ADSL\Billing+ADSL\bin\x86\Debug\WebDriver.xml
+C:\Users\Mahmoud Ragab\Documents\Visual Studio 2017\Projects\Billing+ADSL\Billing+ADSL\bin\x86\Debug\WebDriver.Support.xml
+C:\Users\Mahmoud Ragab\Documents\Visual Studio 2017\Projects\Billing+ADSL\Billing+ADSL\obj\x86\Debug\Billing_ADSL.Form1.resources
+C:\Users\Mahmoud Ragab\Documents\Visual Studio 2017\Projects\Billing+ADSL\Billing+ADSL\obj\x86\Debug\Billing_ADSL.Login.resources
+C:\Users\Mahmoud Ragab\Documents\Visual Studio 2017\Projects\Billing+ADSL\Billing+ADSL\obj\x86\Debug\Billing_ADSL.Properties.Resources.resources
+C:\Users\Mahmoud Ragab\Documents\Visual Studio 2017\Projects\Billing+ADSL\Billing+ADSL\obj\x86\Debug\Billing+ADSL.csproj.GenerateResource.Cache
+C:\Users\Mahmoud Ragab\Documents\Visual Studio 2017\Projects\Billing+ADSL\Billing+ADSL\obj\x86\Debug\Billing+ADSL.exe
+C:\Users\Mahmoud Ragab\Documents\Visual Studio 2017\Projects\Billing+ADSL\Billing+ADSL\obj\x86\Debug\Billing+ADSL.pdb
+C:\Users\Mahmoud Ragab\Documents\Visual Studio 2017\Projects\Billing+ADSL\Billing+ADSL\obj\x86\Debug\Billing+ADSL.csprojResolveAssemblyReference.cache
+G:\material\my work\karem\Billing+ADSL\Billing+ADSL\bin\x86\Debug\Billing+ADSL.exe.config
+G:\material\my work\karem\Billing+ADSL\Billing+ADSL\bin\x86\Debug\Billing+ADSL.exe
+G:\material\my work\karem\Billing+ADSL\Billing+ADSL\bin\x86\Debug\Billing+ADSL.pdb
+G:\material\my work\karem\Billing+ADSL\Billing+ADSL\bin\x86\Debug\tessnet2_32.dll
+G:\material\my work\karem\Billing+ADSL\Billing+ADSL\bin\x86\Debug\WebDriver.dll
+G:\material\my work\karem\Billing+ADSL\Billing+ADSL\bin\x86\Debug\WebDriver.Support.dll
+G:\material\my work\karem\Billing+ADSL\Billing+ADSL\obj\x86\Debug\Billing_ADSL.Form1.resources
+G:\material\my work\karem\Billing+ADSL\Billing+ADSL\obj\x86\Debug\Billing_ADSL.Login.resources
+G:\material\my work\karem\Billing+ADSL\Billing+ADSL\obj\x86\Debug\Billing_ADSL.Properties.Resources.resources
+G:\material\my work\karem\Billing+ADSL\Billing+ADSL\obj\x86\Debug\Billing+ADSL.csproj.GenerateResource.cache
+G:\material\my work\karem\Billing+ADSL\Billing+ADSL\obj\x86\Debug\Billing+ADSL.csproj.CoreCompileInputs.cache
+G:\material\my work\karem\Billing+ADSL\Billing+ADSL\obj\x86\Debug\Billing+ADSL.csproj.CopyComplete
+G:\material\my work\karem\Billing+ADSL\Billing+ADSL\obj\x86\Debug\Billing+ADSL.exe
+G:\material\my work\karem\Billing+ADSL\Billing+ADSL\obj\x86\Debug\Billing+ADSL.pdb
+G:\material\my work\karem\Billing+ADSL\Billing+ADSL\obj\x86\Debug\Billing+ADSL.csproj.AssemblyReference.cache
+G:\material\my work\karem\Billing+ADSL\Billing+ADSL\bin\x86\Debug\SeleniumExtras.WaitHelpers.dll
