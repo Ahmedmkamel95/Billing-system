@@ -118,54 +118,54 @@ namespace Billing_ADSL
                 case 3:
                     return "Alexandria";
                 case 64:
-                    return "الإسماعيلية";
+                    return "Ismalia";
                 case 95:
-                    return "الأقصر";
+                    return "Luxor";
                 case 65:
-                    return "البحر الأحمر";
+                    return "Red Sea";
                 case 45:
                     return "Behira";
                 case 50:
-                    return "الدقهلية";
+                    return "Dakahliya";
                 case 62:
-                    return "السويس";
+                    return "Suez";
                 case 55:
-                    return "الشرقية";
+                    return "Sharkia";
                 case 15:
-                    return "العاشر من رمضان";
+                    return "10th of Ramadan";
                 case 40:
                     return "Al Gharbya";
                 case 84:
-                    return "الفيوم";
+                    return "Fayoum";
                 case 48:
-                    return "المنوفية";
+                    return "Menoufia";
                 case 86:
-                    return "المنيا";
+                    return "Menia";
                 case 92:
-                    return "الوادى الجديد";
+                    return "Wadi Gadid";
                 case 82:
-                    return "بنى سويف";
+                    return "Beni Souif";
                 case 66:
-                    return "بورسعيد";
+                    return "Port Said";
                 case 69:
-                    return "جنوب سيناء";
+                    return "South Sinai";
                 case 57:
-                    return "دمياط";
+                    return "Damietta";
                 case 93:
-                    return "سوهاج";
+                    return "Souhag";
                 case 68:
-                    return "شمال سيناء";
+                    return "North Sinai";
                 case 96:
-                    return "قنا";
+                    return "Quina";
                 case 47:
-                    return "كفر الشيخ";
+                    return "Kafr El-Sheikh";
                 case 46:
-                    return "مرسى مطروح";
+                    return "Matroh";
                 case 13:
-                    return "القليوبية";
+                    return "Qaliobia";
 
                 default:
-                    return "خطأ";
+                    return "wrong";
             }
         }
     }
